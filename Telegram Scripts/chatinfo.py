@@ -1,4 +1,10 @@
-# Отримати інформацію по чату (get_info_telegram_resouce)
+# chatinfo.py
+#
+# Скрипт на базі Telegram API і Telethon для збору детальної інформації по чату/ресурсу (get_info_telegram_resouce).
+# На виході отримуємо в командний рядок технічну інформацію (у форматі структури): id, title, photo, date, creator та інші. 
+# Дані API ID та API HASH беруться з додатку, який створюється тут: https://my.telegram.org/auth?to=apps
+# Номер телефону вказуєте зі свого облікового запису.
+#
 
 from telethon.sync import TelegramClient
 
@@ -8,7 +14,7 @@ api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 phone_number = '+xxxxxxxxxxxxxx'
 
 # Вкажіть ID або юзернейм чату
-chat_id = -100xxxxxxxxxx  # Замініть на ID чату який треба проаналізувати
+chat_id = -xxxxxxxxxxxxx  # Замініть на ID чату який треба проаналізувати
 
 client = TelegramClient('chat_info_session', api_id, api_hash)
 
