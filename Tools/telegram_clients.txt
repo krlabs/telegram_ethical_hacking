@@ -3,6 +3,12 @@ https://github.com/TDesktop-x64
 https://github.com/TelegramDevs/tdesktop-partisan
 https://github.com/kotatogram/kotatogram-desktop
 https://github.com/AyuGram/AyuGramDesktop
+https://github.com/forkgram/tdesktop
+https://github.com/UnigramDev/Unigram
 
 Mobile:
+https://github.com/Telegram-FOSS-Team/Telegram-FOSS
 https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en&pli=1
+https://www.graphmessenger.com/
+https://postufgram.com/
+https://nekogram.app/
