@@ -1,0 +1,46 @@
+. <(wget -qO- https://hikariatama.ru/get_hikka)
+sudo apt update && sudo apt upgrade -y && sudo apt install git python3 -y && git clone https://github.com/hikariatama/Hikka && cd Hikka && pip install -r requirements.txt && python3 -m hikka
+sudo apt install git python3 -y && git clone https://github.com/hikariatama/Hikka && cd Hikka && pip install -r requirements.txt && python3 -m hikka
+sudo killall apt apt-get
+sudo rm /var/lib/apt/lists/lock
+sudo rm /var/cache/apt/archives/lock
+sudo rm /var/lib/dpkg/lock*
+sudo dpkg --configure -a
+sudo apt update
+sudo apt install git python3 -y && git clone https://github.com/hikariatama/Hikka && cd Hikka && pip install -r requirements.txt && python3 -m hikka
+cd Hikka && pip install -r requirements.txt && python3 -m hikka
+pip3 install -r requirements.txt && python3 -m hikka --port 8080
+sudo apt install python3-pip
+pip3 install -r requirements.txt && python3 -m hikka --port 8080
+sudo nano /etc/systemd/system/hikka.service
+cd -
+cd /usr/bin/Hikka
+cd /usr/bin/env/Hikka
+cd /usr/local/Hikka
+cd /usr/bin/Hikka
+cd Hikka
+cd -
+cd /home/ubuntu/Hikka
+sudo nano /etc/systemd/system/hikka.service
+systemctl daemon-reload
+sudo su
+python3 -m hikka --port 8080
+sudo nano /etc/systemd/system/hikka.service
+sudo systemctl start hikka
+sudo su
+sudo reboot
+sudo apt install  nginx
+iptables -I INPUT -s XX.XX.XX.XX -p tcp -m tcp --dport 8080 -j ACCEPT
+iptables -I INPUT -s XX.XX.XX.XX -p tcp -m tcp --dport 8080 -j ACCEPT
+sudo appt install nginx
+sudo apt install nginx
+iptables -I INPUT -s XX.XX.XX.XX -p tcp -m tcp --dport 8080 -j ACCEPT
+iptables -A INPUT -s XX.XX.XX.XX -p tcp -m tcp --dport 8080 -j ACCEPT
+sudo ufw allow 'Nginx HTTP'
+sudo ufw allow 'Nginx HTTPS'
+sudo ufw allow '8080'
+sudo ufw enable
+sudo iptables -I INPUT -sXX.XX.XX.XX -p tcp -m tcp --dport 8080 -j ACCEPT
+sudo iptables -A INPUT -sXX.XX.XX.XX -p tcp -m tcp --dport 8080 -j ACCEPT
+sudo reboot
+sudo systemctl status hikka
