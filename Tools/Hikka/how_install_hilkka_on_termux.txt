@@ -1,4 +1,4 @@
-1. Завантажити Termux з репозиторію F-DROID: https://f-droid.org/repo/com.termux_118.apk (Google Playstore не годиться)
+1. Завантажити Termux з репозиторію F-DROID: https://f-droid.org/repo/com.termux_118.apk (Google Playstore версія не годиться)
 2. Запустити і виконати команду: termux-wake-lock && export AIOHTTP_NO_EXTENSIONS=1 && pkg upgr -y && pkg i wget ncurses-utils python openssl git -y && clear && . <(wget -qO- https://raw.githubusercontent.com/hikariatama/Hikka/refs/heads/master/termux.sh)
 3. Тиснемо "y" і встановлюємо. Дотримуємось інструкцій.
 
