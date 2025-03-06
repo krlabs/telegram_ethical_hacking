@@ -1,1 +1,16 @@
-11
+Модулі Hikka:
+https://t.me/nalinormods
+https://t.me/morisummermods
+https://hikka.pw
+https://mods.hikariatama.ru
+
+Команди юзербота:
+.mquery -xxxxxxxxxxxx - експорт всіх користувачів з групи (якщо відкриті);
+.mquery -xxxxxxxxxx | -xxxxxxxxxx - експорт користувачів з усіх вказаних груп (якщо відкриті);
+.mjoin @chat1 -xxxxxxxxxx - знайти в групах користувачів, які пересікаються (перехресний аналіз);
+.mquery @chat1 and @chat2 - знайти користувачів, які присутні в двох групах (підтримує оператори, можна задавати складні умови).
+.mquery @group1 | @group2 | @group3 - якщо у вас є три групи, і ви хочете знайти всіх учасників, які належать до будь-якої з них.
+.mquery @group1 ^ @group2 - учасники, які є в одній із двох груп, але не в обох одночасно.
+.userinfo @chatbot - взнати ID, коротка інформація.
+.msgrate -xxxxxxxxxxxx - кількість повідомлень в чаті за годину.
+.msgstat -xxxxxxxxxxxx - графік активності чату.
