@@ -1,0 +1,8 @@
+Desktop:
+https://github.com/TDesktop-x64
+https://github.com/TelegramDevs/tdesktop-partisan
+https://github.com/kotatogram/kotatogram-desktop
+https://github.com/AyuGram/AyuGramDesktop
+
+Mobile:
+https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en&pli=1
