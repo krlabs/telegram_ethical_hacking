@@ -21,7 +21,7 @@ async def main():
     print("Fetching available chats...\n")
     async for dialog in client.iter_dialogs():
         print(f"Chat: {dialog.name} | ID: {dialog.id} | Type: {type(dialog.entity).__name__}")
-        # Додатково, якщо хочете побачити більше атрибутів у вигляді технічних характеристик для кожного каналу в JSON
+        # Додатково, якщо хочете побачити технічну інформацію для кожного каналу в структурованому форматі
         # print(dialog.stringify())
 
 with client:
