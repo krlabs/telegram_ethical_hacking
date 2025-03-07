@@ -4,3 +4,10 @@
 
 Як отримати Telegram API_ID і API_HASH? 
 https://www.youtube.com/watch?v=DcqDA249Lhg&t=24s
+
+У випадку обірваної установки на етапі авторизації:
+cd ~/Hikka
+rm -rf hikka.session hikka.session-journal
+python3 -m hikka
+
+Авторизація Hikka запуститься знову.
