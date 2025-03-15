@@ -57,6 +57,9 @@
 *   [Telegram ClickJacking Vulnerability Analysing by @Seekurity](https://www.youtube.com/watch?v=Tw7EYTADfQ0)
 *   [Telegram ClickJacking Vulnerability Analysing #2](https://www.youtube.com/watch?v=QkeWGdGzc9E)
 *   [HABR. Уязвимость в Telegram позволяет обойти пароль local code любой длины](https://habr.com/ru/articles/442586/)
+*   [End-to-End Encryption, Secret Chats](https://core.telegram.org/api/end-to-end)
+*   [Telegram F.A.Q.: Secret Chats](https://telegram.org/faq#secret-chats)
+*   [HABR. Уязвимость в Telegram позволяет скомпрометировать секретные чаты](https://habr.com/ru/articles/419551/)
 
 **Корисні матеріали, мануали і туторіали по OSINT/Hacking в Telegram:**
 
