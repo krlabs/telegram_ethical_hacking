@@ -37,7 +37,7 @@
 *   [ESET. Not-so-private messaging: Trojanized WhatsApp and Telegram apps go after cryptocurrency wallets](https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/)
 *   [ESET. New Telegram-abusing Android RAT discovered in the wild](https://www.welivesecurity.com/2018/06/18/new-telegram-abusing-android-rat/)
 
-**Матеріали для дослідників пов'язані з кібербезпекою Telegram:**
+**Матеріали для дослідників кібербезпеки Telegram:**
 
 *   [Telegram on CVE Details](https://www.cvedetails.com/vulnerability-list/vendor_id-16210/Telegram.html)
 *   [Telegram Bug Bounty](https://core.telegram.org/bug-bounty)
