@@ -1,3 +1,63 @@
+**Посилання на матеріали з аналізом безпеки архітектури Telegram:**
+
+*   [Telegram: End-to-End Encrypted Voice and Video Calls](https://core.telegram.org/api/end-to-end/video-calls)
+*   [Telegram: Perfect Forward Secrecy](https://core.telegram.org/api/pfs)
+*   [Telegram: Should you stop reading Gizmodo right now?](https://telegra.ph/Why-you-should-stop-reading-Gizmodo-right-now-Long)
+*   [Así funciona la seguridad de Telegram](https://www.genbeta.com/seguridad/asi-funciona-la-seguridad-de-telegram)
+*   [Four Attacks and a Proof for Telegram](https://eprint.iacr.org/2023/469.pdf)
+*   [A practical cryptanalysis of the Telegram messaging protocol](https://web.archive.org/web/20160114015815/https://nourbakhsh.ir/wp-content/uploads/2015/11/jakobsen-master-thesis-telegram.pdf)
+*   [Andrea Fortuna. Security analysis of Telegram Messenger](https://andreafortuna.org/2020/03/10/security-analysis-of-telegram-messenger/)
+*   [Dear Telegram, stop calling Cloud Chats encrypted, let alone heavily encrypted](https://nixsanctuary.com/dear-telegram-stop-calling-cloud-chats-encrypted-let-alone-heavily-encrypted/)
+*   [Security Analysis of Telegram (Symmetric Part)](https://mtpsym.github.io/)
+*   [Security Analysis of Telegram](https://courses.csail.mit.edu/6.857/2017/project/19.pdf)
+*   [On the CCA (in)security of MTProto](https://eprint.iacr.org/2015/1177.pdf)
+*   [Forensic analysis of Telegram Messenger on Android smartphones](https://www.sciencedirect.com/science/article/abs/pii/S1742287617301767)
+*   [Automated Symbolic Verification of](https://arxiv.org/pdf/2012.03141.pdf) [Telegram’s MTProto 2.0](https://kr-labs.com.ua/_wp_link_placeholder)
+*   [Cryptographers unearth vulnerabilities in Telegram's encryption protocol](https://web.archive.org/web/20220827005039/https://www.cyberscoop.com/telegram-app-security-encryption/)
+*   [Four cryptographic vulnerabilities in Telegram](https://web.archive.org/web/20221025172522/https://ethz.ch/en/news-and-events/eth-news/news/2021/07/four-cryptographic-vulnerabilities-in-telegram.html)
+*   [Insecure by Design: As Millions Flock to Telegram, 7 Reasons to Question the App's Privacy Claims](https://hackernoon.com/7-reason-why-telegram-is-insecure-by-design-but-millions-still-flock-to-it-ignoring-privacy-concerns-qq1o344c)
+*   [Telegram Review 2022: NOT as Private as You Think](https://restoreprivacy.com/secure-encrypted-messaging-apps/telegram/)
+*   [Mozilla: Privacynotincluded. Telegram.](https://foundation.mozilla.org/fr/privacynotincluded/telegram/)
+*   [Telegram: A New Place for Hackers](https://socradar.io/telegram-a-new-place-for-hackers/)
+*   [Francesco Piccinno. Telegram: goto fail (twice)](https://nopper.me/2014/02/23/multi-party-otr/)
+*   [Moxie Marlinspike about Telegram ceyptography in Twitter (X)](https://x.com/search?q=from%3Amoxie%20telegram&src=typed_query)
+
+**Матеріали пов'язані з операційною, інформаційною безпекою користувачів в Telegram:**
+
+*   [Unveiling Messenger Weaknesses: Understanding How Hackers Can Infiltrate and Compromise Your Device](https://medium.com/coinmonks/unveiling-messenger-weaknesses-understanding-how-hackers-can-infiltrate-and-compromise-your-device-c6c569cf8b87)
+*   [Telegram Security Best Practices](https://osintteam.blog/telegram-security-best-practices-1b33eb10be05)
+*   [Держспецзв'язку. Тематика голосування в месенджерах - новий спосіб викрадення акаунтів набирає обертів](https://cert.gov.ua/article/6279491)
+*   [lyra's epic blog. Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
+*   [Reddit. Understanding Telegram Hack.](https://www.reddit.com/r/Telegram/comments/ket7hc/understanding_telegram_hack_attempt/)
+*   [Forbes. Mystery Russian Telegram Hacks Intercept Secret Codes To Spy On Messages](https://web.archive.org/web/20191212185344/https://www.forbes.com/sites/thomasbrewster/2019/12/12/mystery-russian-telegram-hacks-intercept-secret-codes-to-spy-on-messages/)
+*   [A Step by Step Guide to SS7 Attacks](https://securityboulevard.com/2020/01/a-step-by-step-guide-to-ss7-attacks/)
+*   [Telegram Hijack Attack Targeting Armenian Users](https://cyberhub.am/en/blog/2024/03/26/telegram-hijack-attack-targeting-armenian-users/)
+*   [Telegram account hijacking via bots](https://blog.rico-j.de/telegram-account-hijacking/)
+*   [HABR. Telegram сам добавляет чужие контакты.](https://habr.com/ru/articles/370679/)
+*   [ESET. Not-so-private messaging: Trojanized WhatsApp and Telegram apps go after cryptocurrency wallets](https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/)
+*   [ESET. New Telegram-abusing Android RAT discovered in the wild](https://www.welivesecurity.com/2018/06/18/new-telegram-abusing-android-rat/)
+
+**Матеріали для дослідників пов'язані з кібербезпекою Telegram:**
+
+*   [Telegram on CVE Details](https://www.cvedetails.com/vulnerability-list/vendor_id-16210/Telegram.html)
+*   [Telegram Bug Bounty](https://core.telegram.org/bug-bounty)
+*   [Telegram Bugs](https://bugs.telegram.org/)
+*   [Telegram Desktop: Changelog](https://desktop.telegram.org/changelog)
+*   [Telegram Desktop: Changelog on GitHub](https://github.com/telegramdesktop/tdesktop/blob/dev/changelog.txt)
+*   [Telegram Desktop: Releases on GitHub](https://github.com/telegramdesktop/tdesktop/releases)
+*   [Telegram Desktop: Issues on GitHub](https://github.com/telegramdesktop/tdesktop/issues)
+*   [Telegram Android on GitHub](https://github.com/DrKLO/Telegram)
+*   [Telegram Android Releases on GitHub](https://github.com/DrKLO/Telegram/releases)
+*   [HackerOne Telegram](https://hackerone.com/telegram?type=team)
+*   [Forbes.ua. Баг у Telegram дозволяє віддалено активувати камеру та мікрофон на macOS. Засновник платформи Дуров все спростовує (Оновлено)](https://forbes.ua/news/bag-u-telegram-dozvolyae-viddaleno-aktivuvati-kameru-ta-mikrofon-na-macos-17052023-13705)
+*   [0day.today. Telegram](https://en.0day.today/search?search_request=telegram)
+*   [Exploit Telegram Desktop 2.9.2 Denial of Service PoC](https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC)
+*   [breaking-telegram PoC](https://github.com/matteounitn/breaking-telegram)
+*   [Chaining Telegram bugs to steal session-related files](https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd)
+*   [Telegram ClickJacking Vulnerability Analysing by @Seekurity](https://www.youtube.com/watch?v=Tw7EYTADfQ0)
+*   [Telegram ClickJacking Vulnerability Analysing #2](https://www.youtube.com/watch?v=QkeWGdGzc9E)
+*   [HABR. Уязвимость в Telegram позволяет обойти пароль local code любой длины](https://habr.com/ru/articles/442586/)
+
 **Корисні матеріали, мануали і туторіали по OSINT/Hacking в Telegram:**
 
 *   [GitHub. KR. Laboratories. Telegram Ethical Hacking PACK](https://github.com/krlabs/telegram_ethical_hacking)
