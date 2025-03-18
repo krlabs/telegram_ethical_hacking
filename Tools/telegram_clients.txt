@@ -5,6 +5,7 @@ https://github.com/kotatogram/kotatogram-desktop
 https://github.com/AyuGram/AyuGramDesktop
 https://github.com/forkgram/tdesktop
 https://github.com/UnigramDev/Unigram
+https://github.com/kukuruzka165/materialgram
 
 Mobile:
 https://github.com/Telegram-FOSS-Team/Telegram-FOSS
