@@ -6,6 +6,7 @@ https://github.com/AyuGram/AyuGramDesktop
 https://github.com/forkgram/tdesktop
 https://github.com/UnigramDev/Unigram
 https://github.com/kukuruzka165/materialgram
+https://github.com/exteraSquad/exteraGram
 
 Mobile:
 https://github.com/Telegram-FOSS-Team/Telegram-FOSS
